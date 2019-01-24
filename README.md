@@ -1,6 +1,9 @@
 # colla_flutter
 
-A new Flutter project.
+FLutter App for Blog and Paper of the HS Pforzheim.
+Can use Camera, GPS and Systemtime.
+
+clone, then run flutter build and check with flutter doctor if everything is setup correctly
 
 ## Getting Started
 
